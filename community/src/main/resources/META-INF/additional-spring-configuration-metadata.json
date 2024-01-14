@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.hikair.idle-timeout",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.hikair.idle-timeout."
+  }
+] }
